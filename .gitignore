@@ -1,0 +1,13 @@
+.idea
+.DS_Store
+node_modules/
+*.log
+*.swp
+*.swo
+
+terraform.*
+local-setup.sh
+tmpEcs*.config
+demo-key.pem
+*.pem
+*.tfvars
